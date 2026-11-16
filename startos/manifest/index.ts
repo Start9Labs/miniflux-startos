@@ -5,7 +5,7 @@ export const manifest = setupManifest({
   id: 'miniflux',
   title: 'Miniflux',
   license: 'Apache-2.0',
-  packageRepo: 'https://github.com/Start9-Community/miniflux-startos',
+  packageRepo: 'https://github.com/Start9Labs/miniflux-startos',
   upstreamRepo: 'https://github.com/miniflux/v2',
   marketingUrl: 'https://miniflux.app',
   donationUrl: 'https://miniflux.app/#donations',
